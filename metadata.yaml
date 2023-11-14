@@ -6,6 +6,9 @@ contributor:
     alias: Kluga, Richard Paul
     gutenberg_agent_id: '56288'
     url: http://www.gutenberg.org/2009/agents/56288
+covers:
+- cover_type: archival
+  image_path: 71910-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, Richard Rein
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '33589'
     url: http://www.gutenberg.org/2009/agents/33589
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71910#The-way-out
 gutenberg_issued: '2023-10-19'
 identifiers:
   gutenberg: '71910'
